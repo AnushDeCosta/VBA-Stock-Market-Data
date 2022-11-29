@@ -24,7 +24,12 @@ Bonus Question instructions:
 
 Main Issues Faced
 
-    Under Requirements\Conditional Formatting (20 points) - It is stated:
+    1. Under Requirements\Conditional Formatting (20 points) - It is stated:
         Conditional formatting is applied correctly and appropriately to the percent change column (10 points) But the Sample images have only the "Yearly Change" column formated
         In the Rubric under the "Conditional Formatting" section it is stated - ✓ Conditional formatting is applied correctly and appropriately to the yearly change "and/ or" percent change columns
             Therefore is it ok to just do "Yearly Changes"?
+    
+    2. In the Module 2 Rubric - 
+        Under "Column Creation it is stated that "✓ yearly change ($)"
+            Does this mean Yearly Change Column should be FOrmated to be in Currency?
+            Once again the Sample image does not contain this formatting.
