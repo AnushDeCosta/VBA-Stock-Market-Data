@@ -33,3 +33,8 @@ Main Issues Faced
         Under "Column Creation it is stated that "✓ yearly change ($)"
             Does this mean Yearly Change Column should be FOrmated to be in Currency?
             Once again the Sample image does not contain this formatting.
+
+Files Uploaded
+
+    Images - This Folder Contains 2 Sub Folders, Each with relevent screenshots of each Workbook.
+    VBA_Of_Wall_Street_Anush_Final1.vb file which contains the VBA script for this challenge.
