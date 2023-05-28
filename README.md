@@ -1,35 +1,29 @@
-# VBA- Stock Market Data Analysis challenge
+# VBA-StockMarketAnalysis
 
-Main Instructions to Follow:
+![Main Iamge](./Images/accounting-bar-chart.jpg)
 
-    Create a script that loops through all the stocks and give an output of
-            
-        The ticker symbol
+## Introduction
+This Analytical exercise is centered on developing a VBA script that iterates through stock data and generates an output report. The task involved creating a new repository named VBA-StockMarketAnalysis, reading the stock_data.xlsx file, and designing the script to provide the following information:
 
-        Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+- The ticker symbol
+- Yearly change from the opening price at the start of a specific year to the closing price at the end of that year
+- The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year
+- The total stock volume of the stock
 
-        The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+## Additional Task:
+The task also involved incorporating a feature to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
-        The total stock volume of the stock.
+## Conclusion
+While these issues raised some queries, the overall challenge was an excellent exercise in harnessing the power of VBA to automate stock data analysis
 
-Bonus Question instructions:
+## Tools
+- Excel
+- Visual Basic for Applications (VBA)
 
-    Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
+## File
+- [VBA Script](./VBA_Of_Wall_Street_Anush_Final1.vb)
+- [Alphabetical testing images](./Images/Alphabetical_Testing)
+- [Year based testing images](./Images/Multiple_year_stock_data)
 
 
-Main Issues Faced
 
-    1. Under Requirements\Conditional Formatting (20 points) - It is stated:
-        Conditional formatting is applied correctly and appropriately to the percent change column (10 points) But the Sample images have only the "Yearly Change" column formated
-        In the Rubric under the "Conditional Formatting" section it is stated - ✓ Conditional formatting is applied correctly and appropriately to the yearly change "and/ or" percent change columns
-            Therefore is it ok to just do "Yearly Changes"?
-    
-    2. In the Module 2 Rubric - 
-        Under "Column Creation it is stated that "✓ yearly change ($)"
-            Does this mean Yearly Change Column should be FOrmated to be in Currency?
-            Once again the Sample image does not contain this formatting.
-
-Files Uploaded
-
-    Images - This Folder Contains 2 Sub Folders, Each with relevent screenshots of each Workbook.
-    VBA_Of_Wall_Street_Anush_Final1.vb file which contains the VBA script for this challenge.
