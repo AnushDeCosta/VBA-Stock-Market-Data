@@ -1,9 +1,4 @@
-# VBA-challenge
-BootCamp - Module 2 Challenge
-
-Student Name - Anush De Costa
-Module 2 Challenge Name - VBA Challenge
-
+# VBA- Stock Market Data Analysis challenge
 
 Main Instructions to Follow:
 
